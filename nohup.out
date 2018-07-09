@@ -1,0 +1,48 @@
+. @czarmitch has Big Spoon Energy
+@dane_rousay have u switched dog foods lately? that does it take to still be totally fucking bat shit insane DICK SLEDGE RT @DGreen_14: Who would've thought this guy is doing a project where he sings about chemicals, bc that is the last century.
+no @ here !
+RT @gin_hell: . @czarmitch has Big Spoon Energy
+Use this one a bit too far. wait---how have we not been making music that's too abstract for pop folks and too poppy for experimental music folks.
+no @ here !
+Traceback (most recent call last):
+  File "twitter.py", line 30, in <module>
+    
+  File "build/bdist.macosx-10.12-intel/egg/tweepy/streaming.py", line 450, in filter
+  File "build/bdist.macosx-10.12-intel/egg/tweepy/streaming.py", line 364, in _start
+  File "build/bdist.macosx-10.12-intel/egg/tweepy/streaming.py", line 266, in _run
+  File "build/bdist.macosx-10.12-intel/egg/tweepy/streaming.py", line 316, in _read_loop
+  File "build/bdist.macosx-10.12-intel/egg/tweepy/streaming.py", line 181, in read_line
+  File "/Library/Python/2.7/site-packages/urllib3/response.py", line 384, in read
+    data = self._fp.read(amt)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 588, in read
+    return self._read_chunked(amt)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 630, in _read_chunked
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 734, in recv
+    return self.read(buflen)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 621, in read
+    v = self._sslobj.read(len or 1024)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "twitter.py", line 29, in <module>
+    myStream.filter(follow=['3041956282'])
+  File "build/bdist.macosx-10.12-intel/egg/tweepy/streaming.py", line 450, in filter
+  File "build/bdist.macosx-10.12-intel/egg/tweepy/streaming.py", line 364, in _start
+  File "build/bdist.macosx-10.12-intel/egg/tweepy/streaming.py", line 266, in _run
+  File "build/bdist.macosx-10.12-intel/egg/tweepy/streaming.py", line 316, in _read_loop
+  File "build/bdist.macosx-10.12-intel/egg/tweepy/streaming.py", line 181, in read_line
+  File "/Library/Python/2.7/site-packages/urllib3/response.py", line 384, in read
+    data = self._fp.read(amt)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 588, in read
+    return self._read_chunked(amt)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 630, in _read_chunked
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 734, in recv
+    return self.read(buflen)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 621, in read
+    v = self._sslobj.read(len or 1024)
+KeyboardInterrupt
